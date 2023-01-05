@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "The New York Grim Reaper",
+    "price": "1",
+    "description": "Daniel Jones",
+    "image_url": "https://imgur.com/xmJvbCz.png",
+    "filename": "idfk.zip",
+    "hash": "idfk"
+  },
+  {
+    "id": 2,
+    "name": "Joe Brr",
+    "price": "1",
+    "description": "Joe Burrow",
+    "image_url": "https://imgur.com/vBazCUv.png",
+    "filename": "idfk.zip",
+    "hash": "idfk"
+  },
+  {
+    "id": 3,
+    "name": "bitcoin brady",
+    "price": "3",
+    "image_url": "https://imgur.com/tDe7IcZ.png",
+    "description": "FTX victim"
+  }
+]
